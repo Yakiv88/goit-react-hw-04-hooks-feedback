@@ -23,8 +23,8 @@
 }
 
 .button:hover {
-  background-color: rgba(28, 146, 224, 0.678);
-  color: white;
+  background-color: yellow;
+  color: black;
   box-shadow: 0 0 6px 2px rgb(28 146 224 / 50%);
-  border: 1px solid rgba(28, 146, 224, 0.678);
+  border: 1px solid yellow;
 }
